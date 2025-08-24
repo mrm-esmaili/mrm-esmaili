@@ -35,15 +35,15 @@
 ## 🏅 Featured Projects
 
 ### 🥋 [Iran Varzesh](https://iranvarzesh.ir)
-![Iran Varzesh GIF](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)  
+![Iran Varzesh GIF](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaThuaXN0NWVoNXl6ZGQ4Z2I3b2I1ZnU2aDlnY2k4d283bWphOHBkOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y1v4kgR8urPXO3v8gW/giphy.gif)  
 > Specialized sports & health platform focusing on martial arts & talent scouting.  
 
 ### 🛍️ [Timche](https://timche.org)
-![Timche GIF](https://media.giphy.com/media/3orieYQ5Zsm9gFijUQ/giphy.gif)  
+![Timche GIF](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb253YXJ4anByMHdyYTM0bXJvZXF6ZHA5ZWdjbXE2YWN4NWFxNTBudiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fDkQ1RJkhmfsaO0LCz/giphy.gif)  
 > Version 4 of an online marketplace with professional tools, elegant design & affordable pricing.  
 
 ### 🚗 [AutoGallery Soheil](https://itmb.ir/demo/autogallery/)
-![AutoGallery GIF](https://media.giphy.com/media/26u4nJPf0JtQPdStq/giphy.gif)  
+![AutoGallery GIF](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3RlaHhsZTFhcnp4MGZ1Y290aHJ5M2Y0ZjBuOWl0enEwdmswZmhoOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y42XSF1bFLjUF3ljsL/giphy.gif)  
 > Software for managing car & motorcycle showrooms with inventory management, smart reporting & one-year installment plans.  
 
 ---
