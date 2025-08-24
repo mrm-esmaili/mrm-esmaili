@@ -35,7 +35,7 @@
 ## 🏅 Featured Projects
 
 ### 🥋 [Iran Varzesh](https://iranvarzesh.ir)
-![Iran Varzesh GIF](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaThuaXN0NWVoNXl6ZGQ4Z2I3b2I1ZnU2aDlnY2k4d283bWphOHBkOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y1v4kgR8urPXO3v8gW/giphy.gif)  
+![Iran Varzesh GIF](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDhnczMxMmk3bmR5ZXVia2g2M2thZmJscDVramUzZjIyd3R3N2p1byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l41lQMx5ldSvk60bC/giphy.gif)  
 > Specialized sports & health platform focusing on martial arts & talent scouting.  
 
 ### 🛍️ [Timche](https://timche.org)
